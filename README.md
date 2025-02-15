@@ -1,0 +1,1 @@
+# Vehicle-Resale-Value-Predictor-using-multiple-linear-regression-model
