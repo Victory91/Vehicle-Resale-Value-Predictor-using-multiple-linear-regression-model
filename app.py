@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 
 # load the file that contains the model (model.pkl)
-with open("model.pkl", "rb") as f:
+with open("model (2).pkl", "rb") as f:
   model = pickle.load(f)
 
 # give the Streamlit app page a title
